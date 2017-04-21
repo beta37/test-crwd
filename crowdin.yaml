@@ -2,5 +2,7 @@ preserve_hierarchy: false
 files:
   - source: /Site/Localization/en-US/Test.json
     translation: /Site/Localization/%locale%/%original_file_name%
+    dest: Test.json
   - source: /Site/Localization/Test.resx
     translation: /Site/Localization/Test.%locale%.resx
+    dest: Test.resx
