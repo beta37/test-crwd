@@ -59,6 +59,6 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=111</value>
   </resheader>
   <data name="Home_PageTitle" xml:space="preserve">
-    <value>Home Page Title</value>
+    <value>Титул Домашня сторінка</value>
   </data>
 </root>
