@@ -8,4 +8,5 @@ files:
     languages_mapping:
       locale:
         uk: testing
+        ak: aka
     dest: /de/Test.resx
